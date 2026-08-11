@@ -161,8 +161,8 @@ Developer tooling around GitHub API integration, repository analysis and fronten
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dharaheshh&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaheshh&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages" />
+<a href="https://github.com/Dharaheshh"><img src="https://github-stats-extended.vercel.app/api?username=Dharaheshh&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" /></a>
+<a href="https://github.com/Dharaheshh"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dharaheshh&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages" /></a>
 
 <br><br>
 
